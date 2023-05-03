@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = jdchappelow@gmail.com
-	name = Josh Chappelow
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
